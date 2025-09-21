@@ -7,5 +7,8 @@ about_text: >
   Our alumni consistently report high satisfaction, citing improved communication skills, increased confidence, and real-world language application. 
 whatsapp_number: "+96171277970"
 
+plugins:
+  - jekyll-sitemap
+
 collections:
   courses:

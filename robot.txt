@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://atlas-institute-lb@github.io/sitemap.xml
